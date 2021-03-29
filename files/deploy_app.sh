@@ -12,6 +12,7 @@ cat << EOM > /var/www/html/index.html
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
 Addin  Welcome to ${PREFIX}'s app. I am testing this new feature on the website.
+Testing
   <!-- END -->
 
   </div>
